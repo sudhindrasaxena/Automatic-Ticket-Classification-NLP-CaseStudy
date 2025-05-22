@@ -1,4 +1,4 @@
-# Natural-Language-Processing-Case-Study---Automatic-Ticket-Classification
+# Automatic-Ticket-Classification (Natural Language Processing Case Study)
 
 ## Problem Statement
 For a financial company, customer complaints are a crucial indicator of potential issues in their products and services. Resolving these complaints efficiently not only minimizes customer dissatisfaction but also helps retain customers and build loyalty. Additionally, analyzing complaint data provides actionable insights to improve services and attract new customers.
